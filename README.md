@@ -9,6 +9,12 @@ A lightweight, zero-dependency customized local Python GUI to fetch and export D
 - **CSV Export Tools**: Downloads all scraped messages cleanly using native RFC-compliant Python CSV.
 - **User Highlighting**: Features a CustomTkinter sleek native dark view.
 
+## Stealth vs. Safety (Disclaimer)
+**⚠️ This application is NOT "ban-proof".**
+While it is designed to be as **non-bot-ish as possible** by spoofing browser `User-Agent` strings and using relatively large, randomized human-like delays (5-60s) between fetches, using automation on a user-token is always a violation of Discord's ToS.
+
+Use this tool responsibly and at your own risk.
+
 ## Usage
 Simply run:
 ```bash
