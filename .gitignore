@@ -18,5 +18,6 @@ auto_fetch_log.csv
 .idea/
 .vscode/
 
-# Agent folder (based on your rules, this might be committed, but let's ensure no local secrets)
-# We commit .agents structural files
+# Project Automation / Documentation
+.agents/
+AGENT.md
