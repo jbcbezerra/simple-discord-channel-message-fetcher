@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env
+
+# Application specific cache and logs
+message_cache.json
+auto_fetch_log.csv
+
+# IDEs
+.idea/
+.vscode/
+
+# Agent folder (based on your rules, this might be committed, but let's ensure no local secrets)
+# We commit .agents structural files
